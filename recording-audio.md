@@ -6,3 +6,4 @@
 4. Press the red record button once. The red record light will turn on. You are recording.
 5. Hold the front microphone 6-8 inches away from the sound source (i.e.—the speaker’s mouth.)
 6. When you are finished recording, press the red record button again. The red record light will shut off.
+7. [Power off the Zoom H2n](turning-off-zoom-h2n.md).
