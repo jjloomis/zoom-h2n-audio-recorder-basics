@@ -6,11 +6,7 @@ Zoom H2n Audio Recorder instructions for [Journalism, Advertising, and Media Stu
 
 ## Author
 
-JJ Loomis
-
-## Other formats
-
-PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](https://www.gitbook.com/book/jjloomis/zoom-h2n-audio-recorder/detail).
+Jeffrey John Loomis
 
 ## GitHub
 
